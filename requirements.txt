@@ -4,8 +4,6 @@ imbalanced-learn
 imblearn
 Keyness
 nltk
-numpy
-pandas
 Pillow
 scikit-learn
 scipy
@@ -14,3 +12,4 @@ tokenizers
 torch
 torchvision
 transformers
+ndjson
